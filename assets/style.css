@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  background-color: rgba(111, 22, 170, 0.993);
+  color: yellow;
+  font-size: 1.5em;
+  font-family: 'Acme', sans-serif;
+}
+
+img {
+  border: limegreen 4px solid;
+}
+
+h1 {
+  color: orange;
+}
+
+h3 {
+  color: red;
+}
